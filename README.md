@@ -13,7 +13,9 @@
 ## 👩‍💻 Sobre mí
 
 - 🎓 Estudiante de **Analista Programador Universitario** en la UNLP
-- 💻 Me gusta resolver problemas y escribir código simple y mantenible  
+- 💻 Disfruto resolver problemas y desarrollar código simple, claro y mantenible
+- 🎧 Buena música de fondo siempre acompaña mis sesiones de código
+- 📖 Entusiasta de la lectura de ficción y no ficción
 
 ---
 
