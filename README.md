@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/qcx18jo4u3P.gif" width="300"/>
+  <img src="https://media1.tenor.com/m/us9ZOL2g20sAAAAd/snoopy-ethereal-bits.gif" width="320"/>
 </p>
 
 <h1 align="center">Hola 👋, soy Soso</h1>
@@ -8,14 +8,12 @@
   Analista Programador Universitario 💻
 </p>
 
----
 
-## ✨ sobre mí
+## Sobre mí
 
 - 🎓 Estudiante de **Analista Programador Universitario** en la UNLP
 - 💻 Me gusta resolver problemas y escribir código simple y mantenible  
 
----
 
 ## Tecnologías
 
@@ -23,15 +21,13 @@
   Java · Python · TypeScript · React · Node.js · MySQL · Git · Bash · Linux
 </p>
 
----
 
 ## 📊 Github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sosogarehichi&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sosogarehichi&show_icons=true&count_private=true" />
 </p>
 
----
 
 ## 📫 contacto
 
