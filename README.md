@@ -4,10 +4,6 @@
 
 <h1 align="center">Hola 👋, soy Soso</h1>
 
-<p align="center">
-  Analista Programador Universitario 💻
-</p>
-
 ---
 
 ## 👩‍💻 Sobre mí
