@@ -4,8 +4,6 @@
 
 <h1 align="center">Hola 👋, soy Soso</h1>
 
----
-
 ## 👩‍💻 Sobre mí
 
 - 🎓 Estudiante de **Licenciatura en Informática** en la UNLP
